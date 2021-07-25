@@ -17,6 +17,7 @@ public class PruebaGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.err.println("Primer mensaje");
+        System.out.println("Segundo mensaje");
     }
     
 }
